@@ -1,0 +1,30 @@
+Professor: Jun Rao Department: Computer Science College: College of Staten Island (CUNY)
+Would Take Again: 24% Difficulty: 3.9/5
+Review 1 Course: CSC424 Date: May 2026 Grade: A+
+A student reported a very positive experience and stated that Professor Rao genuinely wants students to succeed. Despite being initially concerned by other reviews, the student felt the professor was better than his reputation suggested. Reviews mention strong lectures, accessibility outside class, and a commitment to helping students perform well.
+Tags: Amazing Lectures, Test Heavy, Accessible Outside Class
+
+Review 2 Course: CSC126 Date: February 2026
+One student felt that communication could be improved, particularly regarding test reviews and lab instructions. The review mentions a large number of exams and suggests that course expectations could be explained more clearly.
+Tags: Tough Grader, Lecture Heavy, Test Heavy
+
+Review 3 Course: CSC126 Date: February 2026
+A student described the professor as average overall but felt lectures could be difficult to follow. The review also mentioned frequent testing and grading that depended heavily on a small number of assessments.
+Tags: Tough Grader, Lecture Heavy, Graded by Few Things
+
+Review 4 Course: CSC220 Date: October 2025 Grade: A+
+A student described Professor Rao as an excellent instructor who genuinely cares about student success. Reviews mention organized lectures, clear explanations, and a willingness to help during office hours. Difficult concepts were described as easier to understand because of his teaching style.
+Tags: Participation Matters, Lots of Homework, Helpful
+
+Review 5 Course: CSC315 Date: May 2025 Grade: A-
+A student reported that although the professor was not viewed as a bad person, they felt the teaching style was ineffective. The review suggests that some students felt they did not learn enough from lectures and labs. The student also perceived the professor as occasionally condescending during class interactions.
+Tags: Teaching Style Concerns, Lab Based Course
+
+Common Themes Across Reviews
+	•	Student opinions are highly divided.
+	•	Some students strongly praise the professor's lectures and commitment to student success.
+	•	Others criticize communication, teaching style, and course organization.
+	•	Multiple reviews mention a large number of exams and test-heavy grading.
+	•	Accessibility outside of class is viewed positively by some students.
+	•	Certain students report clear and helpful explanations, while others describe lectures as difficult to follow.
+	•	Reviews suggest experiences may vary significantly depending on the course and individual learning preferences.

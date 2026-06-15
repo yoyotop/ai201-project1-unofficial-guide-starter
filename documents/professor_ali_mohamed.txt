@@ -1,0 +1,31 @@
+Professor: Ali Mohamed Department: Computer Science College: College of Staten Island (CUNY)
+Overall Rating: 4.7/5 Would Take Again: 91% Difficulty: 3.0/5
+Review 1 Course: CSC446 Date: February 2026 Grade: A
+Students describe Professor Mohamed as highly respected and supportive. Reviews mention that he is well-liked among students and consistently receives positive feedback. Students describe him as caring and committed to helping students succeed.
+Tags: Inspirational, Caring, Respected
+
+Review 2 Course: CSC446 Date: February 2026 Grade: A
+A student who previously took several courses with Professor Mohamed reported another positive experience. The review notes that the course material was enjoyable and that exams were manageable, although the final exam was more challenging than the midterm. Students mention that some later course topics became more complex, particularly diagram-related material.
+Tags: Caring, Respected, Helpful
+
+Review 3 Course: CSC446 Date: May 2025 Grade: A
+Students describe Professor Mohamed as one of the strongest computer science instructors at CSI. Reviews frequently praise his lectures and note that exam content closely reflects homework assignments. Students recommend taking his courses whenever possible.
+Tags: Amazing Lectures, Caring, Respected
+
+Review 4 Course: CSC446 Date: March 2025
+A student highlighted Professor Mohamed's willingness to provide feedback and assist students throughout the course.
+Tags: Gives Good Feedback, Helpful
+
+Review 5 Course: CSC347 Date: May 2024 Grade: A
+Students describe the lab portion of CSC346/347 as relatively easy, although it includes weekly homework assignments and multiple lab reports. Reviews mention that exams are fair and manageable. While some students felt the workload was higher than expected for a one-credit course, they still strongly recommend taking the professor.
+Tags: Lots of Homework, Caring, Helpful
+
+Common Themes Across Reviews
+	•	Students consistently rate Professor Mohamed very highly.
+	•	Lectures are frequently described as clear, engaging, and helpful.
+	•	Exam material is often closely aligned with homework and course assignments.
+	•	Students describe him as caring, supportive, and approachable.
+	•	Feedback and student assistance are viewed positively.
+	•	Coursework can involve regular homework and lab reports, but students generally consider the classes manageable.
+	•	Many students recommend taking multiple courses with Professor Mohamed.
+	•	Professor Mohamed is frequently described as one of the most respected professors in the CSI Computer Science department.

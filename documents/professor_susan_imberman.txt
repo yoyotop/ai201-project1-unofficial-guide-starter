@@ -1,0 +1,31 @@
+Professor: Susan Imberman Department: Computer Science College: College of Staten Island (CUNY)
+Overall Rating: 4.1/5 Would Take Again: 100% Difficulty: 2.5/5
+Review 1 Course: CSC480 Date: December 2024 Grade: A
+Students recommend building a strong foundation in discrete mathematics and data structures before taking CSC480. Reviews mention that the course incorporates concepts such as propositional logic, graphs, and trees. Students describe exam questions as engaging and closely connected to review materials discussed during class.
+Tags: Inspirational, Caring, Helpful
+
+Review 2 Course: CSC480 Date: December 2024 Grade: A
+Students describe Professor Imberman as engaging, approachable, and enthusiastic. Reviews mention her use of humor and interactive classroom activities to keep students involved. Some students specifically appreciated the welcoming classroom environment and memorable teaching style.
+Tags: Amazing Lectures, Inspirational, Caring
+
+Review 3 Course: CSC480 Date: December 2024 Grade: A
+Students consider CSC480 one of the most valuable computer science courses at CSI because of its focus on artificial intelligence concepts and ethics. Reviews describe lectures as interesting, entertaining, and easy to follow. Coursework, projects, and exams are generally viewed as manageable.
+Tags: Amazing Lectures, AI Topics, Ethics, Caring
+
+Review 4 Course: MTH228 Date: December 2023 Grade: B
+Students report that discrete mathematics can be challenging but manageable with consistent effort. Reviews describe Professor Imberman as helpful and supportive, although some students suggest that other instructors may offer a different teaching approach that better fits certain learning styles.
+Tags: Tough Grader, Helpful
+
+Review 5 Course: CSC228 Date: December 2022 Grade: B
+Students describe Professor Imberman as thorough in explaining difficult concepts. Reviews mention that exams are based heavily on ZyBooks materials and challenge questions. While homework volume is relatively low, challenge exercises can be time-consuming and demanding.
+Tags: Clear Grading Criteria, Lecture Heavy, Helpful
+
+Common Themes Across Reviews
+	•	Students consistently describe Professor Imberman as caring, approachable, and supportive.
+	•	CSC480 is frequently viewed as an important course for understanding artificial intelligence concepts and ethics.
+	•	Lectures are often described as engaging, humorous, and memorable.
+	•	Strong preparation in discrete mathematics and data structures is recommended before taking advanced courses.
+	•	Exam content is generally aligned with review materials and course resources.
+	•	ZyBooks challenge questions are an important component of preparation for some courses.
+	•	Students report manageable workloads overall, with difficulty varying by course.
+	•	Reviews indicate a positive classroom atmosphere and strong student engagement.

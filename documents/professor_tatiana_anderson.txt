@@ -1,0 +1,31 @@
+Professor: Tatiana Anderson Department: Computer Science College: College of Staten Island (CUNY)
+Overall Rating: 3.8/5 Would Take Again: 65% Difficulty: 3.5/5
+Review 1 Course: CSC326 Date: November 2025 Grade: A-
+Students describe Professor Anderson as caring and highly available outside of class. Reviews mention that she frequently advertises office hours and provides feedback when needed. Some students report that lecture explanations can be difficult to follow at times. Although attendance is not officially required, students note that pop quizzes and in-class labs encourage regular attendance.
+Tags: Gives Good Feedback, Beware of Pop Quizzes, Accessible Outside Class
+
+Review 2 Course: CSC326 Date: January 2025 Grade: A
+Students report that Professor Anderson expects significant effort and participation from students. Reviews mention that strong performance requires consistent study habits and active engagement with course material. Students describe grading as fair but demanding.
+Tags: Tough Grader, Participation Matters, Gives Good Feedback
+
+Review 3 Course: CSC330 Date: May 2024 Grade: A
+Students describe the course project as challenging and complex. Some reviews mention confusion regarding project requirements and concerns about limited instruction on front-end development topics. Students note that communication tools such as Discord were used during the course, although some wished resources remained available longer.
+Tags: Inspirational, Caring, Test Heavy
+
+Review 4 Course: CSC330 Date: May 2024 Grade: A
+Students report that the first half of the semester can feel particularly difficult. Reviews mention that homework assignments, labs, and the midterm were manageable, while the final exam and quizzes were significantly more challenging. Some students expressed concern about the overall difficulty despite ultimately earning strong grades.
+Tags: Caring, Test Heavy, Challenging Final Exam
+
+Review 5 Course: CSC330 Date: May 2024 Grade: F
+One student expressed frustration after failing the course and viewed grading standards as excessively strict. This review contrasts with others that acknowledge the difficulty of the course while still describing the professor positively.
+Tags: Tough Grader, High Difficulty
+
+Common Themes Across Reviews
+	•	Students generally view Professor Anderson as caring and supportive.
+	•	Office hours and student accessibility are frequently mentioned positively.
+	•	Course expectations are considered rigorous and require consistent effort.
+	•	Pop quizzes, labs, and participation can impact student success.
+	•	Some students feel lecture explanations can be difficult to follow.
+	•	Projects and final exams are often described as challenging.
+	•	Reviews indicate that students who remain engaged and keep up with coursework are more likely to succeed.
+	•	Opinions are mixed regarding course difficulty, but most students agree that the workload is demanding.

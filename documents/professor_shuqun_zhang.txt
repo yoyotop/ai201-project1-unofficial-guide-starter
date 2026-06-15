@@ -1,0 +1,31 @@
+Professor: Shuqun Zhang Department: Computer Science College: College of Staten Island (CUNY)
+Overall Rating: 2.9/5 Would Take Again: 59% Difficulty: 3.6/5
+Review 1 Course: CSC346 Date: December 2025 Grade: B-
+Students describe Professor Zhang as highly knowledgeable and willing to explain concepts repeatedly until students understand them. Reviews mention that he provides exam reviews, practice exams, and extra credit opportunities. Students who attend class and pay attention generally report positive experiences.
+Tags: Amazing Lectures, Extra Credit, Lecture Heavy
+
+Review 2 Course: CSC347 Date: July 2024 Grade: A
+Students report that Professor Zhang explains material thoroughly before lab sessions and clearly communicates expectations. The course includes a significant amount of homework, but students feel the workload helps reinforce learning and prepares them for assignments and labs.
+Tags: Participation Matters, Amazing Lectures, Clear Grading Criteria
+
+Review 3 Course: CSC346 Date: July 2024 Grade: A
+Students describe Professor Zhang as knowledgeable, detailed, and committed to student understanding. Reviews mention that he is willing to revisit concepts multiple times and provides helpful explanations. Students appreciate his feedback and his willingness to share additional knowledge beyond the required material.
+Tags: Amazing Lectures, Gives Good Feedback, Clear Grading Criteria
+
+Review 4 Course: CSC347 Date: November 2023 Grade: A
+Students note that Professor Zhang is the Computer Science Department Chair and has extensive subject knowledge. Reviews mention that he provides useful explanations before lab activities and offers assistance when students need help. Students recommend paying close attention during lab introductions because they often contain hints for completing assignments.
+Tags: Gives Good Feedback, Caring, Respected
+
+Review 5 Course: CSC347 Date: February 2023
+One student reported a negative experience, describing the professor as strict and unwilling to offer second chances for missed exams or labs. The review mentions that grading policies can be rigid and that students may struggle if they fall behind. This review contrasts with several others that describe the professor as supportive and helpful.
+Tags: Tough Grader, Lots of Homework, Test Heavy
+
+Common Themes Across Reviews
+	•	Strong technical knowledge and expertise in computer science topics.
+	•	Frequently praised for detailed explanations and informative lectures.
+	•	Students often mention helpful exam reviews and practice materials.
+	•	Lab sessions are an important component of learning.
+	•	Homework requirements are significant but generally viewed as manageable.
+	•	Students who attend class and participate tend to have more positive experiences.
+	•	Some students view grading policies as strict and inflexible.
+	•	Reviews are mixed overall, with some students highly recommending the professor and others expressing frustration with grading and course policies.
